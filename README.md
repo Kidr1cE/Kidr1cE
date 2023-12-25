@@ -24,7 +24,10 @@
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
 <!-- from https://badges.pages.dev/ -->
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kidr1cE&theme=dark" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
+  <span> </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kidr1cE&theme=tokyonight" />
+  <span> </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidr1cE&hide=html,css,javascript&layout=compact&langs_count=8&theme=tokyonight" />
+  <span> </span>
+</div>
