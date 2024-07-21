@@ -3,7 +3,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying AI prompt and langchain.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design.\
-✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://github.com/Kidr1cE/Kidr1cE.github.io/blob/main/images/face.jpg?raw=true" width="170" height="170" align="left"/>
 
